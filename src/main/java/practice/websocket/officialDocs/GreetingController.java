@@ -1,4 +1,4 @@
-package practive.websocket.officialDocs;
+package practice.websocket.officialDocs;
 
 import org.springframework.messaging.handler.annotation.MessageMapping;
 import org.springframework.messaging.handler.annotation.SendTo;

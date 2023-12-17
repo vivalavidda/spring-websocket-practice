@@ -1,4 +1,4 @@
-package practive.websocket.officialDocs;
+package practice.websocket.officialDocs;
 
 public class HelloMessage {
 
