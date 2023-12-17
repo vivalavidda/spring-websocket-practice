@@ -1,4 +1,4 @@
-package practice.websocket.blog;
+package practice.websocket.blog.SingleServer;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

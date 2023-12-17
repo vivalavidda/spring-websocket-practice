@@ -1,4 +1,4 @@
-package practice.websocket.blog;
+package practice.websocket.blog.SingleServer;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import lombok.RequiredArgsConstructor;
